@@ -1,2 +1,2 @@
 # desafio_dio
-repositório com as resoluçoes dos desaifios do projeto
+repositório com as resoluçoes dos desafios do projeto
